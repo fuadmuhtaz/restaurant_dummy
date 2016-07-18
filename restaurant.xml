@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<restaurant>
-    <id>Tove</id>
-    <name>Jani</name>
-    <address>Reminder</address>
-    <phone>Don't forget me this weekend!</phone>
-</restaurant>
+<result>
+    <count>3</count>
+    <data>
+        <restaurant>
+            <id>1</id>
+            <name>KFC</name>
+            <address>Jl. Kisamaun</address>
+            <phone ext="office">021-59308659</phone>
+        </restaurant>
+        <restaurant>
+            <id>2</id>
+            <name>MC Donald</name>
+            <address>Jl. Kiansantang</address>
+            <phone ext="office">021-59308660</phone>
+        </restaurant>
+        <restaurant>
+            <id>3</id>
+            <name>Bento</name>
+            <address>Jl. Medan Merdeka</address>
+            <phone ext="office">021-59308661</phone>
+        </restaurant>
+    </data>
+</result>
